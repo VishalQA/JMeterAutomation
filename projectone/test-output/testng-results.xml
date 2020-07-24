@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2845" started-at="2020-07-24T20:46:07 IST" finished-at="2020-07-24T20:46:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2845" started-at="2020-07-24T20:46:07 IST" finished-at="2020-07-24T20:46:09 IST">
+      <class name="com.jmeterapi.projectone.TestClass2">
+        <test-method status="PASS" signature="getListofUsers3()[pri:0, instance:com.jmeterapi.projectone.TestClass2@2a742aa2]" name="getListofUsers3" duration-ms="2817" started-at="2020-07-24T20:46:07 IST" finished-at="2020-07-24T20:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListofUsers3 -->
+      </class> <!-- com.jmeterapi.projectone.TestClass2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
